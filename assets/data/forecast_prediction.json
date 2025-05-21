@@ -1,0 +1,242 @@
+[
+ {
+   "datetime": "2023-01-01",
+   "predicted_demand": 1815.9967
+ },
+ {
+   "datetime": "2023-01-02",
+   "predicted_demand": 1819.2958
+ },
+ {
+   "datetime": "2023-01-03",
+   "predicted_demand": 1821.4015
+ },
+ {
+   "datetime": "2023-01-04",
+   "predicted_demand": 1822.8143
+ },
+ {
+   "datetime": "2023-01-05",
+   "predicted_demand": 1824.1163
+ },
+ {
+   "datetime": "2023-01-06",
+   "predicted_demand": 1825.6611
+ },
+ {
+   "datetime": "2023-01-07",
+   "predicted_demand": 1827.4751
+ },
+ {
+   "datetime": "2023-01-08",
+   "predicted_demand": 1829.4917
+ },
+ {
+   "datetime": "2023-01-09",
+   "predicted_demand": 1831.7003
+ },
+ {
+   "datetime": "2023-01-10",
+   "predicted_demand": 1834.0665
+ },
+ {
+   "datetime": "2023-01-11",
+   "predicted_demand": 1836.6051
+ },
+ {
+   "datetime": "2023-01-12",
+   "predicted_demand": 1839.2251
+ },
+ {
+   "datetime": "2023-01-13",
+   "predicted_demand": 1841.9626
+ },
+ {
+   "datetime": "2023-01-14",
+   "predicted_demand": 1844.85
+ },
+ {
+   "datetime": "2023-01-15",
+   "predicted_demand": 1847.8218
+ },
+ {
+   "datetime": "2023-01-16",
+   "predicted_demand": 1850.9296
+ },
+ {
+   "datetime": "2023-01-17",
+   "predicted_demand": 1854.1652
+ },
+ {
+   "datetime": "2023-01-18",
+   "predicted_demand": 1857.5427
+ },
+ {
+   "datetime": "2023-01-19",
+   "predicted_demand": 1861.0942
+ },
+ {
+   "datetime": "2023-01-20",
+   "predicted_demand": 1864.7726
+ },
+ {
+   "datetime": "2023-01-21",
+   "predicted_demand": 1868.5684
+ },
+ {
+   "datetime": "2023-01-22",
+   "predicted_demand": 1872.4729
+ },
+ {
+   "datetime": "2023-01-23",
+   "predicted_demand": 1876.528
+ },
+ {
+   "datetime": "2023-01-24",
+   "predicted_demand": 1880.7218
+ },
+ {
+   "datetime": "2023-01-25",
+   "predicted_demand": 1885.0585
+ },
+ {
+   "datetime": "2023-01-26",
+   "predicted_demand": 1889.552
+ },
+ {
+   "datetime": "2023-01-27",
+   "predicted_demand": 1894.178
+ },
+ {
+   "datetime": "2023-01-28",
+   "predicted_demand": 1898.9471
+ },
+ {
+   "datetime": "2023-01-29",
+   "predicted_demand": 1903.8536
+ },
+ {
+   "datetime": "2023-01-30",
+   "predicted_demand": 1908.8877
+ },
+ {
+   "datetime": "2023-01-31",
+   "predicted_demand": 1914.0428
+ },
+ {
+   "datetime": "2023-02-01",
+   "predicted_demand": 1919.3174
+ },
+ {
+   "datetime": "2023-02-02",
+   "predicted_demand": 1924.7113
+ },
+ {
+   "datetime": "2023-02-03",
+   "predicted_demand": 1930.2239
+ },
+ {
+   "datetime": "2023-02-04",
+   "predicted_demand": 1935.8522
+ },
+ {
+   "datetime": "2023-02-05",
+   "predicted_demand": 1941.5908
+ },
+ {
+   "datetime": "2023-02-06",
+   "predicted_demand": 1947.4337
+ },
+ {
+   "datetime": "2023-02-07",
+   "predicted_demand": 1953.3724
+ },
+ {
+   "datetime": "2023-02-08",
+   "predicted_demand": 1959.3977
+ },
+ {
+   "datetime": "2023-02-09",
+   "predicted_demand": 1965.5002
+ },
+ {
+   "datetime": "2023-02-10",
+   "predicted_demand": 1971.6694
+ },
+ {
+   "datetime": "2023-02-11",
+   "predicted_demand": 1977.8939
+ },
+ {
+   "datetime": "2023-02-12",
+   "predicted_demand": 1984.1626
+ },
+ {
+   "datetime": "2023-02-13",
+   "predicted_demand": 1990.4628
+ },
+ {
+   "datetime": "2023-02-14",
+   "predicted_demand": 1996.7808
+ },
+ {
+   "datetime": "2023-02-15",
+   "predicted_demand": 2003.1018
+ },
+ {
+   "datetime": "2023-02-16",
+   "predicted_demand": 2009.4102
+ },
+ {
+   "datetime": "2023-02-17",
+   "predicted_demand": 2015.69
+ },
+ {
+   "datetime": "2023-02-18",
+   "predicted_demand": 2021.9244
+ },
+ {
+   "datetime": "2023-02-19",
+   "predicted_demand": 2028.0969
+ },
+ {
+   "datetime": "2023-02-20",
+   "predicted_demand": 2034.1906
+ },
+ {
+   "datetime": "2023-02-21",
+   "predicted_demand": 2040.1881
+ },
+ {
+   "datetime": "2023-02-22",
+   "predicted_demand": 2046.0721
+ },
+ {
+   "datetime": "2023-02-23",
+   "predicted_demand": 2051.8257
+ },
+ {
+   "datetime": "2023-02-24",
+   "predicted_demand": 2057.4321
+ },
+ {
+   "datetime": "2023-02-25",
+   "predicted_demand": 2062.8748
+ },
+ {
+   "datetime": "2023-02-26",
+   "predicted_demand": 2068.1375
+ },
+ {
+   "datetime": "2023-02-27",
+   "predicted_demand": 2073.205
+ },
+ {
+   "datetime": "2023-02-28",
+   "predicted_demand": 2078.0635
+ },
+ {
+   "datetime": "2023-03-01",
+   "predicted_demand": 2082.6997
+ }
+]

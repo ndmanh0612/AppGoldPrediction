@@ -1,0 +1,242 @@
+[
+    {
+        "datetime": "2025-05-10",
+        "predicted_demand": 3325.2693
+    },
+    {
+        "datetime": "2025-05-11",
+        "predicted_demand": 3319.3855
+    },
+    {
+        "datetime": "2025-05-12",
+        "predicted_demand": 3302.6099
+    },
+    {
+        "datetime": "2025-05-13",
+        "predicted_demand": 3277.1074
+    },
+    {
+        "datetime": "2025-05-14",
+        "predicted_demand": 3245.0527
+    },
+    {
+        "datetime": "2025-05-15",
+        "predicted_demand": 3208.3428
+    },
+    {
+        "datetime": "2025-05-16",
+        "predicted_demand": 3168.2522
+    },
+    {
+        "datetime": "2025-05-17",
+        "predicted_demand": 3125.8982
+    },
+    {
+        "datetime": "2025-05-18",
+        "predicted_demand": 3082.4473
+    },
+    {
+        "datetime": "2025-05-19",
+        "predicted_demand": 3038.3901
+    },
+    {
+        "datetime": "2025-05-20",
+        "predicted_demand": 2994.5903
+    },
+    {
+        "datetime": "2025-05-21",
+        "predicted_demand": 2951.3262
+    },
+    {
+        "datetime": "2025-05-22",
+        "predicted_demand": 2908.5254
+    },
+    {
+        "datetime": "2025-05-23",
+        "predicted_demand": 2867.0574
+    },
+    {
+        "datetime": "2025-05-24",
+        "predicted_demand": 2827.3923
+    },
+    {
+        "datetime": "2025-05-25",
+        "predicted_demand": 2790.181
+    },
+    {
+        "datetime": "2025-05-26",
+        "predicted_demand": 2755.7278
+    },
+    {
+        "datetime": "2025-05-27",
+        "predicted_demand": 2724.3108
+    },
+    {
+        "datetime": "2025-05-28",
+        "predicted_demand": 2696.0142
+    },
+    {
+        "datetime": "2025-05-29",
+        "predicted_demand": 2671.298
+    },
+    {
+        "datetime": "2025-05-30",
+        "predicted_demand": 2650.5322
+    },
+    {
+        "datetime": "2025-05-31",
+        "predicted_demand": 2633.9307
+    },
+    {
+        "datetime": "2025-06-01",
+        "predicted_demand": 2621.2026
+    },
+    {
+        "datetime": "2025-06-02",
+        "predicted_demand": 2612.0298
+    },
+    {
+        "datetime": "2025-06-03",
+        "predicted_demand": 2606.418
+    },
+    {
+        "datetime": "2025-06-04",
+        "predicted_demand": 2604.2273
+    },
+    {
+        "datetime": "2025-06-05",
+        "predicted_demand": 2605.3115
+    },
+    {
+        "datetime": "2025-06-06",
+        "predicted_demand": 2609.3816
+    },
+    {
+        "datetime": "2025-06-07",
+        "predicted_demand": 2616.1812
+    },
+    {
+        "datetime": "2025-06-08",
+        "predicted_demand": 2625.4714
+    },
+    {
+        "datetime": "2025-06-09",
+        "predicted_demand": 2637.0215
+    },
+    {
+        "datetime": "2025-06-10",
+        "predicted_demand": 2650.5933
+    },
+    {
+        "datetime": "2025-06-11",
+        "predicted_demand": 2665.946
+    },
+    {
+        "datetime": "2025-06-12",
+        "predicted_demand": 2682.8413
+    },
+    {
+        "datetime": "2025-06-13",
+        "predicted_demand": 2701.0425
+    },
+    {
+        "datetime": "2025-06-14",
+        "predicted_demand": 2720.3267
+    },
+    {
+        "datetime": "2025-06-15",
+        "predicted_demand": 2740.4792
+    },
+    {
+        "datetime": "2025-06-16",
+        "predicted_demand": 2761.2937
+    },
+    {
+        "datetime": "2025-06-17",
+        "predicted_demand": 2782.5881
+    },
+    {
+        "datetime": "2025-06-18",
+        "predicted_demand": 2804.2004
+    },
+    {
+        "datetime": "2025-06-19",
+        "predicted_demand": 2825.992
+    },
+    {
+        "datetime": "2025-06-20",
+        "predicted_demand": 2847.8381
+    },
+    {
+        "datetime": "2025-06-21",
+        "predicted_demand": 2869.6301
+    },
+    {
+        "datetime": "2025-06-22",
+        "predicted_demand": 2891.2715
+    },
+    {
+        "datetime": "2025-06-23",
+        "predicted_demand": 2912.6792
+    },
+    {
+        "datetime": "2025-06-24",
+        "predicted_demand": 2933.7834
+    },
+    {
+        "datetime": "2025-06-25",
+        "predicted_demand": 2954.522
+    },
+    {
+        "datetime": "2025-06-26",
+        "predicted_demand": 2974.831
+    },
+    {
+        "datetime": "2025-06-27",
+        "predicted_demand": 2994.6462
+    },
+    {
+        "datetime": "2025-06-28",
+        "predicted_demand": 3013.9011
+    },
+    {
+        "datetime": "2025-06-29",
+        "predicted_demand": 3032.5288
+    },
+    {
+        "datetime": "2025-06-30",
+        "predicted_demand": 3050.4583
+    },
+    {
+        "datetime": "2025-07-01",
+        "predicted_demand": 3067.6123
+    },
+    {
+        "datetime": "2025-07-02",
+        "predicted_demand": 3083.908
+    },
+    {
+        "datetime": "2025-07-03",
+        "predicted_demand": 3099.2573
+    },
+    {
+        "datetime": "2025-07-04",
+        "predicted_demand": 3113.5674
+    },
+    {
+        "datetime": "2025-07-05",
+        "predicted_demand": 3126.7412
+    },
+    {
+        "datetime": "2025-07-06",
+        "predicted_demand": 3138.6794
+    },
+    {
+        "datetime": "2025-07-07",
+        "predicted_demand": 3149.281
+    },
+    {
+        "datetime": "2025-07-08",
+        "predicted_demand": 3158.4453
+    }
+]
